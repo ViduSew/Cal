@@ -14,5 +14,5 @@ A simple GUI calculator built with **Python** and **Tkinter**.
    ```bash
    python calculator.py
 
-##Release URL
-https://github.com/yourusername/python-calculator/releases/tag/v1.0
+##Release URL[
+https://github.com/ViduSew/Cal/releases/tag/v0.1
